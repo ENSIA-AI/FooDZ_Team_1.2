@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
-=======
 <a href="http://www.bootstrapdash.com/demo/purple-admin-free" target="_blank"><img src="screenshot.jpg"></a>
 
 <h1>PurpleAdmin-Free-Admin-Template</h1>
@@ -74,4 +67,3 @@ After Gulp has been installed, follow the steps below to contribute.
 	Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
 Visit
   <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
->>>>>>> origin/master
